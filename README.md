@@ -1,6 +1,6 @@
 ## To reproduce the bug, go through all the steps
 
-1. Clone the repository `git clone https://github.com/StMelik/cypress-image-snapshot-path-bug.git`
+1. Clone the repository `git clone https://github.com/StMelik/cypress-image-snapshot-path-bug.git .`
 
 2. Go to the project folder `cd Test.Project`
 
